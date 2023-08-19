@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Standoff 2, a gripping first-person shooter (FPS) game developed by Axlebolt, has taken the mobile gaming world by storm ",
+   "photo1":"https://iili.io/HbqMhFt.webp"},
+  {"desc2":"Since its initial release, this action-packed title has captivated millions of players worldwide with its intense gameplay, stunning graphics, and extensive customization options","photo2":"https://iili.io/HbqxZJ9.webp"},
+  {"desc3":"In this review, we will dive deep into the world of Standoff 2 and explore its key features, gameplay mechanics, and what makes it a standout title in the mobile FPS genre.","photo3":"https://iili.io/HbqCsl1.webp"},
+  {"desc4":"Standoff 2 boasts impressive graphics that rival some of the best PC and console shooters. ","photo4":"https://iili.io/HbqMjcX.webp"},
+  {"desc5":"The game offers players highly detailed maps, realistic weapon designs, and fluid character animations","photo5":"https://iili.io/HbqMwSn.webp"},
+  {"descd":"The attention to detail is evident in every aspect, from the intricately designed guns to the lifelike environments","photod":"https://iili.io/HbqMO9s.webp"}
    ]
  
 }
